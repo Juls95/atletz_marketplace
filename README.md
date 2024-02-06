@@ -22,7 +22,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Juls95/atletz_martketplace">
-    <img src="src/app/assets/atletz.svg" alt="Logo" width="200" height="80">
+    <img src="public/logo.svg" alt="Logo" width="200" height="80">
   </a>
 
 <h3 align="center">Atletz</h3>
