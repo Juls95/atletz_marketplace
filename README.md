@@ -30,7 +30,7 @@
   <p align="center">
     Empower talent, share triumphs
     <br />
-    <a href="https://github.com/Juls95/atletz_martketplace"><strong>Explore the docs »</strong></a>
+    <a href="#-challenges-we-ran-into"><strong>🤯 READ THIS TO SEE THE DEMO </strong></a></li>
     <br />
     <br />
     <a href="https://atletz.io/">View Demo</a>
@@ -72,7 +72,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Why ATLETZ?
 
-[![Product Name Screen Shot][product-screenshot]](https://atletz.io)
+[![Product Name Screen Shot][public/og-image.jpg]](https://atletz.io)
 
 The human being is a social being; he likes to belong to and feel identified with a community. Regarding **Atletz**, we are the company that will combine Blockchain technology, AI, and Sports by allowing followers of a particular discipline to have access and opportunity to invest in athletes who will be recommended by an AI system based on people's information and interactions as well as the quality of the athlete (reputation, commitment, transparency...). 
 
