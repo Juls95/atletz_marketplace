@@ -72,7 +72,10 @@
 <!-- ABOUT THE PROJECT -->
 ## Why ATLETZ?
 
-[public/og-image.jpg](https://atletz.io)
+<a href="https://atletz.io">
+    <img src="public/og-image.jpg" alt="Logo" width="100" height="20">
+  </a>
+
 
 The human being is a social being; he likes to belong to and feel identified with a community. Regarding **Atletz**, we are the company that will combine Blockchain technology, AI, and Sports by allowing followers of a particular discipline to have access and opportunity to invest in athletes who will be recommended by an AI system based on people's information and interactions as well as the quality of the athlete (reputation, commitment, transparency...). 
 
